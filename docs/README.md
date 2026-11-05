@@ -156,7 +156,7 @@ Planned translations:
 ### 🤝 **Help Us Translate**
 Interested in translating documentation?
 - Contact: translations@kisanai.com
-- Join: [GitHub Discussions](https://github.com/kisanai/kisanai/discussions)
+- Join: [GitHub Discussions](https://github.com/playlikeboy/KishanAI/discussions)
 - Contribute: Submit translated documents via PR
 
 ---
@@ -164,14 +164,14 @@ Interested in translating documentation?
 ## 📞 **Getting Help**
 
 ### 💬 **Community Support**
-- **GitHub Discussions**: https://github.com/kisanai/kisanai/discussions
+- **GitHub Discussions**: https://github.com/playlikeboy/KishanAI/discussions
 - **Telegram Community**: @KisanAI_Community
 - **Email Support**: help@kisanai.com
 
 ### 🆘 **Issue Reporting**
 Found bugs or have feature requests?
-- **Bug Reports**: [Create GitHub Issue](https://github.com/kisanai/kisanai/issues/new?template=bug_report.md)
-- **Feature Requests**: [Create GitHub Issue](https://github.com/kisanai/kisanai/issues/new?template=feature_request.md)
+- **Bug Reports**: [Create GitHub Issue](https://github.com/playlikeboy/KishanAI/issues/new?template=bug_report.md)
+- **Feature Requests**: [Create GitHub Issue](https://github.com/playlikeboy/KishanAI/issues/new?template=feature_request.md)
 - **Documentation Issues**: Email docs@kisanai.com
 
 ### 🏢 **Business Inquiries**

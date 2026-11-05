@@ -2,7 +2,7 @@
 	"name": "kisanai",
 	"version": "1.0.0",
 	"private": true,
-	"description": "India's First AI-Powered Agricultural Assistant - Built for YUKTI AICTE Hackathon 2025",
+	"description": "AI-powered agricultural assistant for Indian farmers, with crop disease support, multilingual chat, weather and mandi price information.",
 	"keywords": [
 		"KisanAI",
 		"agriculture",
@@ -49,5 +49,10 @@
 		"tailwindcss": "^4",
 		"typescript": "^5",
 		"wrangler": "^4.22.0"
-	}
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/playlikeboy/KishanAI.git"
+	},
+	"homepage": "https://github.com/playlikeboy/KishanAI#readme"
 }

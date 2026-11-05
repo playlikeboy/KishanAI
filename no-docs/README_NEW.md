@@ -8,7 +8,7 @@
 
 [![YUKTI 2025](https://img.shields.io/badge/YUKTI-AICTE%202025-green)](https://yukti.aicte-india.org)
 [![Telegram Bot](https://img.shields.io/badge/Telegram-@KisanAIBot-blue)](https://t.me/Kishan_aibot)
-[![Made in India](https://img.shields.io/badge/Made%20in-India%20🇮🇳-orange)](https://github.com/kisanai/kisanai)
+[![Made in India](https://img.shields.io/badge/Made%20in-India%20🇮🇳-orange)](https://github.com/playlikeboy/KishanAI)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 [🚀 Live Demo](https://kishanai.shaswat.live) • [📱 Try Telegram Bot](https://t.me/Kishan_aibot) • [📚 Documentation](docs/) • [❓ FAQ](FAQ.md)
@@ -52,7 +52,7 @@ KisanAI is India's first comprehensive AI-powered agricultural assistant that wo
 
 ### For Developers
 ```bash
-git clone https://github.com/kisanai/kisanai.git
+git clone https://github.com/playlikeboy/KishanAI.git
 cd kisanai
 npm install
 npm run dev
@@ -213,8 +213,8 @@ Comprehensive documentation is available in the `/docs` folder:
 
 ### **Social Media**
 - **📱 Telegram**: [@KisanAIBot](https://t.me/Kishan_aibot)
-- **🐦 Twitter**: [@sh20raj](https://twitter.com/sh20raj)
-- **💼 LinkedIn**: [/sh20raj](https://www.linkedin.com/in/sh20raj)
+- **🐦 Twitter**: [@sh20raj](https://github.com/playlikeboy)
+- **💼 LinkedIn**: [/sh20raj](https://github.com/playlikeboy)
 
 ---
 

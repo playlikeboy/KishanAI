@@ -45,11 +45,11 @@
 ```bash
 # 1. Fork the repository on GitHub
 # 2. Clone your fork
-git clone https://github.com/YOUR_USERNAME/kisanai.git
+git clone https://github.com/YOUR_USERNAME/KishanAI.git
 cd kisanai
 
 # 3. Add upstream remote
-git remote add upstream https://github.com/kisanai/kisanai.git
+git remote add upstream https://github.com/playlikeboy/KishanAI.git
 
 # 4. Install dependencies
 npm install
@@ -959,8 +959,8 @@ npm install @google-cloud/speech @google-cloud/text-to-speech
 ### **Where to Ask Questions**
 
 #### **For General Discussion**
-- 💬 **GitHub Discussions**: https://github.com/kisanai/kisanai/discussions
-- 🐦 **Twitter**: [@KisanAI_India](https://twitter.com/sh20raj)
+- 💬 **GitHub Discussions**: https://github.com/playlikeboy/KishanAI/discussions
+- 🐦 **Twitter**: [@KisanAI_India](https://github.com/playlikeboy)
 - 📧 **Email**: community@kisanai.com
 
 #### **For Technical Help**

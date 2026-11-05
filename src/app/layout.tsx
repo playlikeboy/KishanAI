@@ -11,14 +11,14 @@ const manrope = Manrope({
 });
 
 export const metadata: Metadata = {
-  title: "KisanAI - India's First AI-Powered Agricultural Assistant",
-  description: "Empowering 100+ million Indian farmers with instant crop disease detection, multilingual AI chatbot, weather forecasts, and mandi prices through Telegram. Built for YUKTI AICTE Hackathon 2025.",
+  title: "KisanAI - AI-Powered Agricultural Assistant for Indian Farmers",
+  description: "AI-powered agricultural assistance for Indian farmers, including crop disease support, multilingual chat, weather information, and mandi price guidance.",
   keywords: ["KisanAI", "AI farming", "crop disease detection", "agricultural chatbot", "farmer assistance", "YUKTI", "AICTE", "Indian agriculture", "Telegram bot"],
   authors: [{ name: "KisanAI Team" }],
   openGraph: {
     title: "KisanAI - AI-Powered Farming Assistant",
     description: "Transform your farming with AI-powered crop disease detection and expert agricultural advice in your language",
-    url: "https://kishanai.strivio.world/",
+    url: "https://github.com/playlikeboy/KishanAI",
     siteName: "KisanAI",
     locale: "en_IN",
     type: "website",
